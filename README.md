@@ -23,7 +23,7 @@ In this section please fill out a table or list of the features you plan to impl
 5. (OPTIONAL) **Train repairs**: As the train is ransacked, parts will have to be boarded up and held togehter
    **Estimated Challenge - 4:**
 6. **Multiple stops** The train has two stops before the final destinations, at theses stops you can purchace upgrades to improve the train
-    **Estimated Challenge - 3:**
+    **Estimated Challenge - 4:**
 
 ## Milestones
 
