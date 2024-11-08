@@ -6,7 +6,7 @@ Calvin Kim, Quintan Gerhardstein
 
 ## Project Description
 
-
+The player works wihtin a finite space in which that are able to operate their tasks. The game will take place in space where you are a conductor the international train commitee. The player moves fuel to the engine compartment, making sure the train get to its destination, but other lifeforms have different plans. You are exporting valueable goods in which you must project and secure. Fight off these intrudors or else the international train commitee will fire you! 
 
 ## Feature Breakdown
 
