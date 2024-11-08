@@ -4,7 +4,7 @@
 
 *Short Title/or 1 Sentence Description*
 
-Calvin Kim, 
+Calvin Kim, Quintan Gerhardstein
 
 ## Project Description
 
@@ -16,7 +16,7 @@ In this section please fill out a table or list of the features you plan to impl
 
 1. **Time Dilation**: Time slows down while the player is not moving and speeds up when they do
     1. **Estimated Challenge - 5:** I am unsure how to do X and I thing Z may take a while to build out.
-2. ETC…
+2. 
 
 ## Milestones
 
