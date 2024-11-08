@@ -30,7 +30,7 @@ Become the ultimate space conductor in a thrilling game where you’re in charge
 3. **By 12/5** - Refine and add approate visuals and audio sources, most bugs fixed.
 
 ## Inspirations 
-Job Simulator - https://www.meta.com/experiences/job-simulator/3235570703151406/
+1. Job Simulator - https://www.meta.com/experiences/job-simulator/3235570703151406/
 We took inspiration about this as this game is heavily focus on doing task for a certain job and we wanted it took have a similar feel in the gameplay loop.
-Choo-Choo Charles - https://store.steampowered.com/app/1766740/ChooChoo_Charles/
+2. Choo-Choo Charles - https://store.steampowered.com/app/1766740/ChooChoo_Charles/
 We took inspiration from its train upgrades and the weapon system. We liked the idea of going around and being able to upgrade your train and going to certain stations in order to make those upgrade and visual changes.
