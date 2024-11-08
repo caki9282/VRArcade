@@ -1,14 +1,12 @@
-# VRArcade
+# Final Project Proposal: Name TBD
 
-# Final Project Proposal: XR Arcade
-
-*Short Title/or 1 Sentence Description*
+The main loop of our game is you are a conductor for some space train and your goal is to keep the train running via shovleling space coal and other train maintance.
 
 Calvin Kim, Quintan Gerhardstein
 
 ## Project Description
 
-70-150 words describing your vision for the project
+
 
 ## Feature Breakdown
 
