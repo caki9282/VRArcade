@@ -28,3 +28,5 @@ Become the ultimate space conductor in a thrilling game where you’re in charge
 1. **By 11/19** - Train working enviorment set up. Base interactions implemented.
 2. **By 11/26** - Test all base functionalities to ensure they are working before going into visual additions.
 3. **By 12/5** - Refine and add approate visuals and audio sources, most bugs fixed.
+
+## Inspirations 
