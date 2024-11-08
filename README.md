@@ -13,17 +13,17 @@ Become the ultimate space conductor in a thrilling game where you’re in charge
 In this section please fill out a table or list of the features you plan to implement for this project and how challenging you view them to be for you (on a scale of 1 to 5). Here is an example of the format I am looking for:
 
 1. **Real time grabbing of objects**: Time slows down while the player is not moving and speeds up when they do
-   **Estimated Challenge - 5:** The grabbing intertactions need to feel smooth and not cumborsum to keep holding onto an object{I am unsure how to do X and I thing Z may take a while to build out.}
+   **Estimated Challenge - 1:** The grabbing intertactions need to feel smooth and not cumborsum to keep holding onto an object{I am unsure how to do X and I thing Z may take a while to build out.}
 2. **Fuel progress check**: As the train progresses more and more fuel is used to
-       **Estimated Challenge - 5:**
+       **Estimated Challenge - 2:**
 3. **Alien Bandits try to fly in and steal the freight**: The aliens will b-line to the freight and you as the conductor have to shoot them down to stop them
-   **Estimated Challenge - 5:**
+   **Estimated Challenge - 3:**
 4. **Tank Heat**: Manage the tank temprature to keep the train for the engine by turing a valve
-   **Estimated Challenge - 5:**
+   **Estimated Challenge - 2:**
 5. (OPTIONAL) **Train repairs**: As the train is ransacked, parts will have to be boarded up and held togehter
-   **Estimated Challenge - 5:**
+   **Estimated Challenge - 4:**
 6. **Multiple stops** The train has two stops before the final destinations, at theses stops you can purchace upgrades to improve the train
-    **Estimated Challenge - 5:**
+    **Estimated Challenge - 3:**
 
 ## Milestones
 
