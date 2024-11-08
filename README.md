@@ -20,7 +20,7 @@ In this section please fill out a table or list of the features you plan to impl
    **Estimated Challenge - 5:**
 4. **Tank Heat**: Manage the tank temprature to keep the train for the engine by turing a valve
    **Estimated Challenge - 5:**
-5. **Train repairs**: As the train is ransacked, parts will have to be boarded up and held togehter
+5. (OPTIONAL) **Train repairs**: As the train is ransacked, parts will have to be boarded up and held togehter
    **Estimated Challenge - 5:**
 6. **Multiple stops** The train has two stops before the final destinations, at theses stops you can purchace upgrades to improve the train
     **Estimated Challenge - 5:**
