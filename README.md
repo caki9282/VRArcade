@@ -29,5 +29,6 @@ In this section please fill out a table or list of the features you plan to impl
 
 List here the progress you intend to make by each milestone check point. The dates I have represented here are actual due dates for project submissions. These will also be in class time to get feedback from me and other students, so you must have something ready to test by class on each of these days.
 
-1. **By 11/19** - Implement time dilation and ….
-2. **By 12/5** - …
+1. **By 11/19** - Train working enviorment set up. Base interactions implemented.
+2. **By 11/26** - Test all base functionalities to ensure they are working before going into visual additions.
+3. **By 12/5** - Refine and add approate visuals and audio sources, most bugs fixed.
