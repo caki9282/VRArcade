@@ -10,8 +10,6 @@ Become the ultimate space conductor in a thrilling game where you’re in charge
 
 ## Feature Breakdown
 
-In this section please fill out a table or list of the features you plan to implement for this project and how challenging you view them to be for you (on a scale of 1 to 5). Here is an example of the format I am looking for:
-
 1. **Real time grabbing of objects**: Time slows down while the player is not moving and speeds up when they do
    **Estimated Challenge - 1:** The grabbing intertactions need to feel smooth and not cumborsum to keep holding onto an object{I am unsure how to do X and I thing Z may take a while to build out.}
 2. **Fuel progress check**: As the train progresses more and more fuel is used to
@@ -26,8 +24,6 @@ In this section please fill out a table or list of the features you plan to impl
     **Estimated Challenge - 4:**
 
 ## Milestones
-
-List here the progress you intend to make by each milestone check point. The dates I have represented here are actual due dates for project submissions. These will also be in class time to get feedback from me and other students, so you must have something ready to test by class on each of these days.
 
 1. **By 11/19** - Train working enviorment set up. Base interactions implemented.
 2. **By 11/26** - Test all base functionalities to ensure they are working before going into visual additions.
