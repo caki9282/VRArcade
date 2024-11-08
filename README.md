@@ -6,7 +6,7 @@ Calvin Kim, Quintan Gerhardstein
 
 ## Project Description
 
-The player works wihtin a finite space in which that are able to operate their tasks. The game will take place in space where you are a conductor the international train commitee. The player moves fuel to the engine compartment, making sure the train get to its destination, but other lifeforms have different plans. You are exporting valueable goods in which you must project and secure. Fight off these intrudors or else the international train commitee will fire you! 
+Become the ultimate space conductor in a thrilling game where you’re in charge of the Intergalactic Train Committee! Operate within a limited area, managing critical tasks aboard the star-bound freight train. Your mission? Keep the engines fueled and secure the precious cargo as you race through the cosmos. But beware—hostile alien lifeforms have their own ideas and will stop at nothing to disrupt your journey! Protect the cargo, fend off intruders, and ensure the train reaches its destination. Can you survive the journey, or will you face the wrath of the Intergalactic Train Committee?
 
 ## Feature Breakdown
 
