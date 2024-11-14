@@ -371,6 +371,7 @@
 "Assets/Scripts/Static Example scripts/Some_Data.cs"
 "Assets/Scripts/Static Example scripts/Static_ex1.cs"
 "Assets/Scripts/Static Example scripts/Static_ex2.cs"
+"Assets/Scripts/TESTINGSCIPRT.cs"
 "Assets/Scripts/TMP_Fuel_Disp.cs"
 -langversion:9.0
 /deterministic
