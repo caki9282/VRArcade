@@ -16,11 +16,19 @@ public class Furnace_Burn : MonoBehaviour
         
     }
 
-    void OnCollisionEnter(Collision collision)
+    private void OnTriggerEnter(Collider other)
     {
-        if (collision.gameObject.CompareTag("Coal"))
+        if(other.gameObject.CompareTag("Coal"))
         {
-            Destroy(collision.gameObject); // Destroy coal
+            Destroy(other.gameObject); // Destroy coal
+            Int_statics.Fuel++;
+            Debug.Log(Int_statics.Fuel);
+        }
+        else
+        {
+            Destroy(other.gameObject); // Destroy coal
+            Int_statics.Fuel+=10;
+            Debug.Log(Int_statics.Fuel);
         }
     }
 }
