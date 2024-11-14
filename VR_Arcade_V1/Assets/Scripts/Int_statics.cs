@@ -6,5 +6,6 @@ public class Int_statics : MonoBehaviour
 {
     // Just the data
     public static int Fuel = 0;
+    public static float pressure = 4.0f;
 
 }
