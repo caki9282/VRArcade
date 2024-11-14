@@ -8,7 +8,6 @@ using UnityEngine.InputSystem;
 public class TMP_Fuel_Disp : MonoBehaviour
 {
     int num = 0;
-
     void Start()
     {
         write_text();

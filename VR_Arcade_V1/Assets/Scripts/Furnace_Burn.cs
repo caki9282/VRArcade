@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class Furnace_Burn : MonoBehaviour
 {
+   [SerializeField] public GameObject spawner;
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -20,15 +23,12 @@ public class Furnace_Burn : MonoBehaviour
     {
         if(other.gameObject.CompareTag("Coal"))
         {
-            Destroy(other.gameObject); // Destroy coal
+            //Destroy(other.gameObject); // Destroy coal
             Int_statics.Fuel++;
             Debug.Log(Int_statics.Fuel);
-        }
-        else
-        {
-            Destroy(other.gameObject); // Destroy coal
-            Int_statics.Fuel+=10;
-            Debug.Log(Int_statics.Fuel);
+
+            //move object
+            other.gameObject.transform.position = spawner.transform.position;
         }
     }
 }
